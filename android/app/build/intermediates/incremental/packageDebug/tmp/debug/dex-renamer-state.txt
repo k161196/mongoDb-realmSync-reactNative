@@ -1,0 +1,4 @@
+#Mon Jun 29 14:14:44 IST 2020
+base.0=D\:\\data\\projects\\TimerApp\\timerapp\\template\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
